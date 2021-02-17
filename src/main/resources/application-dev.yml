@@ -35,6 +35,6 @@ logging:
 upload-path: D:/uploads
 base-back-path: http://localhost:8088/uploads
 jwt:
-  secret: 'mebugsjwt'
+  secret: 'meal'
   header: Authorization
   tokenHead: 'Bearer '
