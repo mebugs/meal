@@ -1,22 +1,23 @@
 # 基本信息
 
 Meal（一顿饭）意如其名，旨在节省一顿饭的时间。
+
 本工程采用前后端分离的部署方式，服务端采用SpringBoot构建，前端采用Vue。
+
 工程仅提供了一些基础支撑能力的构建，不包含其他的业务逻辑，旨在快速铺开一个新业务系统。
 
-服务端工程地址：
-[Gitee](https://gitee.com/mebugs/meal "Gitee")
-[GitHub](https://github.com/mebugs/meal "GitHub")
+服务端工程地址：[Gitee](https://gitee.com/mebugs/meal "Gitee") [GitHub](https://github.com/mebugs/meal "GitHub")
 
-前端工程地址：
-[Gitee](https://gitee.com/mebugs/meal-ui "Gitee")
-[GitHub](https://github.com/mebugs/meal-ui "GitHub")
+前端工程地址：[Gitee](https://gitee.com/mebugs/meal-ui "Gitee") [GitHub](https://github.com/mebugs/meal-ui "GitHub")
 
 ## 特别致谢
 
 Meal服务端使用[MyBatis-Plus](https://mybatis.plus/ "MyBatis-Plus")作为基础脚手架。
+
 Meal服务端使用[jjwt](https://github.com/jwtk/jjwt "jjwt")实现JWT快速加解密。
+
 Meal-ui前端工程Fork自[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template "vue-admin-template")。
+
 本人是JAVA服务端开发，[@花裤衩](https://github.com/PanJiaChen "@花裤衩")的前端系列开源项目为我学习Vue提供非常大的帮助，非常感谢！
 
 # 功能清单
