@@ -25,33 +25,33 @@ Meal工程仅提供了最基本的账号-角色支撑能力，没有涉及其他
 
 ## 登陆页
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612194.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612194.jpg)
 
 ## 工作中心
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613617287.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613617287.jpg)
 
 ## 角色控制与多级菜单测试
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612228.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612228.jpg)
 
 ## 个人密码管理
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612265.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612265.jpg)
 
 ## 账号管理
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612283.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612283.jpg)
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612295.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612295.jpg)
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612304.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612304.jpg)
 
 ## 代码生成
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612318.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612318.jpg)
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612326.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612326.jpg)
 
 # 开发说明
 ## 服务端
@@ -63,7 +63,7 @@ Meal工程仅提供了最基本的账号-角色支撑能力，没有涉及其他
 
 ### 工程目录
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613612886.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613612886.jpg)
 
 ### 核心类
 
@@ -83,7 +83,7 @@ Meal工程仅提供了最基本的账号-角色支撑能力，没有涉及其他
 3. 启动App类
 
 启动示意图：
-![](http://www.mebugs.com/blog/upload/post/POST_1613614733.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613614733.jpg)
 
 ## 前端
 ### 外部依赖
@@ -93,9 +93,9 @@ Meal工程仅提供了最基本的账号-角色支撑能力，没有涉及其他
 
 ### 工程目录
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613615776.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613615776.jpg)
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613615784.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613615784.jpg)
 
 ### 相对原本的改动
 
@@ -109,7 +109,7 @@ Meal工程仅提供了最基本的账号-角色支撑能力，没有涉及其他
 
 ### 启动界面
 
-![](http://www.mebugs.com/blog/upload/post/POST_1613616164.jpg)
+![](https://www.mebugs.com/blog/upload/post/POST_1613616164.jpg)
 
 ### 开发说明
 
